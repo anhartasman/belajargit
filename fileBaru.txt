@@ -1,1 +1,5 @@
 ini file baru
+
+ini tambahan isi file
+
+ini akhir tambahan isi file
